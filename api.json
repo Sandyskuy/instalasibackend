@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": [
+        {
+            "id": "1",
+            "nama_product": "dfsw",
+            "description": "ef"
+        },
+        {
+            "id": "4",
+            "nama_product": "wuh",
+            "description": "eirh"
+        }
+    ]
+}
